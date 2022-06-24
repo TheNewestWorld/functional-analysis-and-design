@@ -19,3 +19,8 @@
 - After modified file and Click <code>Unsaved changes. Click here to save button</code> save button.
 
 - Write Commit Message.
+
+## How to Use draw.io?
+
+- ### [Add rows to ERD tables, lists and UML classes](https://drawio.freshdesk.com/support/solutions/articles/16000061977-add-rows-to-erd-tables-lists-and-uml-classes)
+- 
