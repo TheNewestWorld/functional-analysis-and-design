@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-03T14:09:49.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="YUbTdjE4vMCioKU06yS6" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-09T06:52:30.194Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ljUYt0Bn0lXkpolnjTnE" version="20.0.4" type="github">
   <diagram id="qDok4e9AEN-nBYy8NWvK" name="Page-1">
-    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,7 +281,7 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UpOI-I0c9vFf3SbaVMod-20" value="coaching_answer" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;labelBorderColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="598" y="1140" width="229" height="239" as="geometry" />
+          <mxGeometry x="548" y="930" width="229" height="239" as="geometry" />
         </mxCell>
         <mxCell id="UpOI-I0c9vFf3SbaVMod-21" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;labelBorderColor=none;" parent="UpOI-I0c9vFf3SbaVMod-20" vertex="1">
           <mxGeometry y="30" width="229" height="30" as="geometry" />
@@ -375,7 +375,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UpOI-I0c9vFf3SbaVMod-39" value="coaching" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;labelBorderColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="320.5" y="1140" width="229" height="420" as="geometry" />
+          <mxGeometry x="270.5" y="930" width="229" height="420" as="geometry" />
         </mxCell>
         <mxCell id="UpOI-I0c9vFf3SbaVMod-40" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;labelBorderColor=none;" parent="UpOI-I0c9vFf3SbaVMod-39" vertex="1">
           <mxGeometry y="30" width="229" height="30" as="geometry" />
@@ -556,22 +556,22 @@
           <mxGeometry x="80" y="760" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UpOI-I0c9vFf3SbaVMod-86" value="코칭 내역 화면 같은 경우는 트레이너/유저 나누어진 두개의 화면이 필요할 것 같습니다.&lt;br&gt;코칭을 신청해서 결제 이후 트레이너가 유저가 신청한 코칭 신청 내역을 볼 수 있는 화면이 필요하지 않을까요?&lt;br&gt;-&amp;gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;트레이너가 과연 결제된 모든 코칭 신청을 받아야 할까요?&lt;br&gt;즉, 트레이너가 코칭 신청 받은 내역을 관리할 수 있는 화면이 필요합니다. / 코칭 신청 받은 피드벡 관리까지 가능한??" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="1170" width="320" height="210" as="geometry" />
+          <mxGeometry x="1147" y="1120" width="320" height="210" as="geometry" />
         </mxCell>
         <mxCell id="UpOI-I0c9vFf3SbaVMod-87" value="유저가 신청한 코칭 내역을 볼 수 있는 화면&lt;br&gt;이 화면이 생기면&lt;br&gt;신청 -&amp;gt; 수락 -&amp;gt; 결제 라는 단계가 생기가 된다&lt;br&gt;아니면 신청 -&amp;gt; 결제 -&amp;gt; 수락&lt;br&gt;신청이 취소 되면 결제한 금액을 환불하도록 현재 우리의 앱은 코칭 신청 현금이 아닌 앱 내의 재화로 결제 하므로 이 방법이 더 괜찮지 않을까? 라는 개인적인 생각" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="870" y="1170" width="290" height="150" as="geometry" />
+          <mxGeometry x="827" y="1120" width="290" height="150" as="geometry" />
         </mxCell>
         <mxCell id="UpOI-I0c9vFf3SbaVMod-94" value="유저 테이블에서 유저 타입이 필요한가?&lt;br&gt;트레이너 테이블이 필요할 거 같습니다." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1310" y="1020" width="219" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UpOI-I0c9vFf3SbaVMod-96" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UpOI-I0c9vFf3SbaVMod-43" target="UpOI-I0c9vFf3SbaVMod-24" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="420" y="840" as="sourcePoint" />
-            <mxPoint x="520" y="740" as="targetPoint" />
+            <mxPoint x="370" y="630" as="sourcePoint" />
+            <mxPoint x="470" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UpOI-I0c9vFf3SbaVMod-103" value="user" style="shape=table;startSize=0;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=0;labelBorderColor=none;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="130" y="1090" width="70" height="30" as="geometry">
+          <mxGeometry x="80" y="880" width="70" height="30" as="geometry">
             <mxRectangle x="340" y="1260" width="180" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -627,10 +627,10 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LiPn2Ad6qxbDod1_6Rwa-6" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="UpOI-I0c9vFf3SbaVMod-103">
+        <mxCell id="LiPn2Ad6qxbDod1_6Rwa-6" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="UpOI-I0c9vFf3SbaVMod-103" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="320" y="1157" as="sourcePoint" />
-            <mxPoint x="770" y="940" as="targetPoint" />
+            <mxPoint x="270" y="947" as="sourcePoint" />
+            <mxPoint x="720" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
